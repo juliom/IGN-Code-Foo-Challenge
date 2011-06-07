@@ -1,0 +1,38 @@
+1)
+
+Step 1: First of all I was thinking about why the heck don't we use the metric system?
+
+Step 2: Next I knew I nedded the size of both a penny (diameter) and the Golden gate (lenght and width).
+
+Step 3: I tought it would be as easy as getting the areas and dividing, but...
+
+Step 4: Pennies are circles, and according to the statement they should not over lap, and by just dividing the area I would get a larger number, so..
+
+Step 5: I though I could represent the pennies as squares with the width being the same as the diamater, but there could still be some overlapping because again by just dividing the areas it wouldn't take into consideration  the position of the pennies, so again I could get a larger number.
+
+Step 6: Then I just decided I would determine how many entire pennies fit on the perimeter and represent columns and rows of pennies, and then just multiply the rows X columns to get the total.
+
+Answer: 206,633,410 pennies
+
+2)
+
+1280 x 720
+1292 x 726
+1304 x 733
+
+3)
+
+For the Knight problem I used Net Beans to write the program in Java, as I mainly have a C Languaje programming background from school, and used JFreeChart to make the graph.  It takes 63 movements after the starting position.  I called the project Knight Problem.
+
+4) 
+
+I love video games.  Ever since I held a video game controller or played an arcade, video games have been my passion.  So IGN has always been a site I spend a lot of time on, and before today, the wet dream of working over there never really seemed so possible. I used to love watching videos where the IGN staff will be fooling around the office with Nerf guns, or just trying out the exclusive new video games.  I have seen many editors cum and go from IGN, but it keeps being the best gaming site, and lately my pick for movies, TV, though I really miss Jerry Blog's sections for Tech Gear.  I don't know if I speak for every gamer, but it seems to me that there is a little bit of imatureness in all of us, because we love gaming so much and not everbody understands it.  I also love a technology enthusiast, beer aficionado and I love rock'n roll.  So if I get the changce to work there, you guys really wont regret it.
+
+BIO
+
+My name is Julio Mejia.
+I was born in Monterrey, Mexico on July the 16th 1980.
+I have an Engineering Degree in Electronics and Communications and most of my porgramming experience is with C.
+I currently work as a Remote Desktop Engineer for ACS supporting the MillerCoors Brewing Company (MGD is my favorite american beer).  I provide all kind of IT Support for the Milwaukee Corporate offices and Chicago head quarters.  Right now we are going through a transition process because Miller decided to switch their IT company from ACS to IBM. Before this job, I was working for GE Money as a Quality Analyst, but the company changed their operations to Guetemala so it was the end of the road for many of us with GE. Before that I had several day time jobs while trying to pursue a musical career as a guitar player, which was not very successful.
+Last year I completed my CCNA certification and I'm currently learning Java on my own.
+I would deffinitely love to joing the video game industry, specially working for IGN, and maybe in a near future start a vide game or application development studio/company.
